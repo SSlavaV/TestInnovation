@@ -1,15 +1,15 @@
-### Предполагаемая схема работы
+### РџСЂРµРґРїРѕР»Р°РіР°РµРјР°СЏ СЃС…РµРјР° СЂР°Р±РѕС‚С‹
 
-[WorkScheme](/Innovation.png)
+![WorkScheme](/Innovation.png)
 
-###Тестовое задание
-Настроить строку подключения в appsettings.json опция DefaultConnection
-Запустить сервис
-Перейти на [swagger](swagger/index.html) 
-Зарегистрировать [Регион](/api/Region/create)
-Зарегистрировать [Устройство](/api/Device/create)
-Получить [код авторизации](/api/Login/login)
-Добавить его в headers запросов Authorization: Bearer eyJhbGciO....
-Зарегистрировать [событие](/api/Device/registerEvent)
-Получить [список событий](/api/Device/getevents)
+###РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ
+РќР°СЃС‚СЂРѕРёС‚СЊ СЃС‚СЂРѕРєСѓ РїРѕРґРєР»СЋС‡РµРЅРёСЏ РІ appsettings.json РѕРїС†РёСЏ DefaultConnection
+Р—Р°РїСѓСЃС‚РёС‚СЊ СЃРµСЂРІРёСЃ
+РџРµСЂРµР№С‚Рё РЅР° [swagger](swagger/index.html) 
+Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ [Р РµРіРёРѕРЅ](/api/Region/create)
+Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ [РЈСЃС‚СЂРѕР№СЃС‚РІРѕ](/api/Device/create)
+РџРѕР»СѓС‡РёС‚СЊ [РєРѕРґ Р°РІС‚РѕСЂРёР·Р°С†РёРё](/api/Login/login)
+Р”РѕР±Р°РІРёС‚СЊ РµРіРѕ РІ headers Р·Р°РїСЂРѕСЃРѕРІ Authorization: Bearer eyJhbGciO....
+Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ [СЃРѕР±С‹С‚РёРµ](/api/Device/registerEvent)
+РџРѕР»СѓС‡РёС‚СЊ [СЃРїРёСЃРѕРє СЃРѕР±С‹С‚РёР№](/api/Device/getevents)
 
